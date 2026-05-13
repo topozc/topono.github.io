@@ -1,11 +1,4 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
----
-
-<style>
+I"¿<style>
   .download-panel {
     display: flex;
     flex-wrap: wrap;
@@ -98,11 +91,7 @@ layout: default
 </style>
 
 <section class="download-panel">
-  <img
-    class="app-icon"
-    src="/assets/images/app-icon-placeholder.svg"
-    alt="Topo App icon"
-  />
+  <img class="app-icon" src="/assets/images/app-icon-placeholder.svg" alt="Topo App icon" />
 
   <div class="download-copy">
     <h2>Video Compress</h2>
@@ -115,4 +104,5 @@ layout: default
   </div>
 </section>
 
-<p class="contact-line"><strong>Contact</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+<p class="contact-line"><strong>Contact</strong> <a href="mailto:topozc@outlook.com">topozc@outlook.com</a></p>
+:ET
