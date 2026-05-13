@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: topo
-email:
-description: 
+email: topozc@outlook.com
+description: topo app
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
