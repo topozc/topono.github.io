@@ -1,7 +1,13 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-Welcome.
+## Jinxixi
+
+Jinxixi provides mobile applications and utility software, including Video Compress.
+
+This website, its applications, and their related services are operated by **{{ site.company_name }}**.
+
+For product support or privacy-related questions, contact us at <{{ site.email }}>.

@@ -1,4 +1,4 @@
-I"¿<style>
+I"2	<style>
   .download-panel {
     display: flex;
     flex-wrap: wrap;
@@ -91,7 +91,7 @@
 </style>
 
 <section class="download-panel">
-  <img class="app-icon" src="/assets/images/app-icon-placeholder.svg" alt="Topo App icon" />
+  <img class="app-icon" src="/assets/images/app-icon-placeholder.svg" alt="Video Compress app icon" />
 
   <div class="download-copy">
     <h2>Video Compress</h2>
@@ -104,5 +104,6 @@
   </div>
 </section>
 
-<p class="contact-line"><strong>Contact</strong> <a href="mailto:topozc@outlook.com">topozc@outlook.com</a></p>
+<p class="contact-line"><strong>Operated by</strong> Shenzhen Jinxixi Technology Co., Ltd.</p>
+<p class="contact-line"><strong>Contact</strong> <a href="mailto:contact@jinxixitech.com">contact@jinxixitech.com</a></p>
 :ET

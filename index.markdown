@@ -101,7 +101,7 @@ layout: default
   <img
     class="app-icon"
     src="/assets/images/app-icon-placeholder.svg"
-    alt="Topo App icon"
+    alt="Video Compress app icon"
   />
 
   <div class="download-copy">
@@ -115,4 +115,5 @@ layout: default
   </div>
 </section>
 
+<p class="contact-line"><strong>Operated by</strong> {{ site.company_name }}</p>
 <p class="contact-line"><strong>Contact</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>

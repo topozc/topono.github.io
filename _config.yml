@@ -18,9 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: topo app
-email: topozc@outlook.com
-description: 
+title: Jinxixi
+email: contact@jinxixitech.com
+description: Mobile applications and utility software.
+company_name: Shenzhen Jinxixi Technology Co., Ltd.
+company_name_zh: 深圳市今嘻嘻科技有限公司
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
