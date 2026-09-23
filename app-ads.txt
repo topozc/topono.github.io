@@ -3,6 +3,7 @@ OWNERDOMAIN=xysapp.com
 google.com, pub-3467739043553454, DIRECT, f08c47fec0942fa0
 
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+openx.com, 609855119, DIRECT, 6a698e2ec38604c6
 
 
 #pangle
